@@ -14,7 +14,7 @@ Unzip the .zip file and you will have a directory containing the files.
 
 Document download link:
 
-Github 
+Github:
 https://github.com/WITMOTION
 
 Google Drive: 
