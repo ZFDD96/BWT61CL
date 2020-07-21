@@ -1,6 +1,3 @@
-# BWT901CL
-Tutorial including manual, datasheet, APK for Android APP, sample code for MCU integration, etc.
-
 RELEASE NOTES
 =============
 WITMOTION Turotial File 
