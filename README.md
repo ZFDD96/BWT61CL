@@ -16,15 +16,14 @@ Github:
 https://github.com/WITMOTION
 
 Google Drive: 
-https://drive.google.com/drive/folders/1I6sBC-8Q3_vtY-GrFDZbWJZJFk7UnNfO
+https://drive.google.com/open?id=1VjR8F6NxYdhKu17jRNzUMIf2rrd6oOp7
 
 -----------
 Youtube Channael: 
 https://www.youtube.com/c/WITMOTION
 
-BWT901CL Playlist: 
-https://www.youtube.com/watch?v=W7GpNKMBeqg&list=PL43tdDrVL_VAz6b3HJjr67kCQiqgV9b27
-
+BWT61CL Playlist: 
+https://www.youtube.com/watch?v=6nBOm3Ct348&list=PL43tdDrVL_VC4njMairdwH-O-AVWECvSs
 -----------
 After-sale Service& Technical Support: 
 
